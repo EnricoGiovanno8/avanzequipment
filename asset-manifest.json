@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/avanzequipment/static/css/main.c5f2ca3b.css",
+    "main.js": "/avanzequipment/static/js/main.a2ec7474.js",
+    "static/media/building.jpeg": "/avanzequipment/static/media/building.a1515a2d3d202abafff7.jpeg",
+    "index.html": "/avanzequipment/index.html",
+    "main.c5f2ca3b.css.map": "/avanzequipment/static/css/main.c5f2ca3b.css.map",
+    "main.a2ec7474.js.map": "/avanzequipment/static/js/main.a2ec7474.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5f2ca3b.css",
+    "static/js/main.a2ec7474.js"
+  ]
+}
